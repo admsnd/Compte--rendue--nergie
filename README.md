@@ -17,9 +17,9 @@ Données :
 
 Principe de conservation de l'énergie :  
 L'énergie électrique absorbée par la bouilloire est égale à la somme des énergies transférées :
-$$
+
 E_{\text{électrique}} = E_{\text{utile}} + E_{\text{perdue}}
-$$
+
 
 Calcul : 
 $$
